@@ -1,0 +1,9 @@
+.marketcontainer{
+    background-image: url(/images/CMIH-Slider.png);
+    background-size:cover ;
+}
+
+.slick-slide img{
+    max-width: 100%;
+    padding: 10px;
+}
